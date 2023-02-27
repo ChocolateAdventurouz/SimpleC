@@ -7,5 +7,7 @@
 
 int main(){
 
-    whoami();
+    char *whoami_;
+    whoami_ = whoami();
+    printf("Logged in as: %s", whoami);
 }
