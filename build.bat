@@ -1,0 +1,1 @@
+gcc simplec.h -Wall
